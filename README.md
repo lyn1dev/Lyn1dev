@@ -2,7 +2,7 @@ github is not a social media platform.
 - contact me: iconiclyn@gmail.com 
 
 <details>
-<summary><b>🏆 Merged open source contributions</b> · 10 PRs across 9 repos</summary>
+<summary><b>open source contributions - click to expand</b></summary>
 
 | | Repository | ⭐ Stars | 🔀 Merged PRs |
 |:-:|:--|--:|:--|
