@@ -1,5 +1,8 @@
 github is not a social media platform. 
 - contact me: iconiclyn@gmail.com 
+
+<table><tr><td>
+
 <details>
 <summary>Merged open source contributions (10)</summary>
 
@@ -14,6 +17,8 @@ github is not a social media platform.
 - [lollip0529/Zero-Records](https://github.com/lollip0529/Zero-Records) - 7 stars - [#1](https://github.com/lollip0529/Zero-Records/pull/1)
 
 </details>
+
+</td></tr></table>
 
 <img src="https://github-widgets.netlify.app/api/v1/user-stats.svg?userName=lyn1dev&showIssues=false&showContributedTo=false&theme=monochrome" alt="User Stats" />
 <!--
