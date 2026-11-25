@@ -70,6 +70,11 @@ def build_table():
     return "\n".join(lines), sum(len(r[3]) for r in rows), len(rows)
 
 
+SUMMARY_RE = re.compile(
+    r"<summary><b>open source contributions(?:\s*\(\d+\s+repos?\s+merged\))?\s*-\s*click to expand</b></summary>"
+)
+
+
 def main():
     table, pr_count, repo_count = build_table()
     with open(README, encoding="utf-8", newline="") as f:
@@ -80,6 +85,9 @@ def main():
         sys.exit(f"Markers {START} / {END} not found in {README}")
     block = START + newline + newline + table.replace("\n", newline) + newline + newline + END
     updated = pattern.sub(lambda _: block, text, count=1)
+    repo_label = "repo" if repo_count == 1 else "repos"
+    summary = f"<summary><b>open source contributions ({repo_count} {repo_label} merged) - click to expand</b></summary>"
+    updated = SUMMARY_RE.sub(lambda _: summary, updated, count=1)
     if updated != text:
         with open(README, "w", encoding="utf-8", newline="") as f:
             f.write(updated)
