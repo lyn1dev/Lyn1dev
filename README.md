@@ -2,13 +2,13 @@ github is not a social media platform.
 - contact me: iconiclyn@gmail.com 
 
 <details>
-<summary><b>open source contributions (61 PRs merged) - click to expand</b></summary>
+<summary><b>open source contributions (63 PRs merged) - click to expand</b></summary>
 
 <!-- merged-prs:start -->
 
 | | Repository | ⭐ Stars | 🔀 Merged PRs |
 |:-:|:--|--:|:--|
-| <img src="https://github.com/pingdotgg.png?size=40" width="20" height="20" alt="pingdotgg"> | [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | 82.2k | [`#33064`](https://github.com/pingdotgg/t3code/pull/33064) |
+| <img src="https://github.com/pingdotgg.png?size=40" width="20" height="20" alt="pingdotgg"> | [**pingdotgg/t3code**](https://github.com/pingdotgg/t3code) | 82.3k | [`#33064`](https://github.com/pingdotgg/t3code/pull/33064) |
 | <img src="https://github.com/fabricjs.png?size=40" width="20" height="20" alt="fabricjs"> | [**fabricjs/fabric.js**](https://github.com/fabricjs/fabric.js) | 31.6k | [`#11209`](https://github.com/fabricjs/fabric.js/pull/11209) |
 | <img src="https://github.com/The-PR-Agent.png?size=40" width="20" height="20" alt="The-PR-Agent"> | [**The-PR-Agent/pr-agent**](https://github.com/The-PR-Agent/pr-agent) | 16.7k | [`#4774`](https://github.com/The-PR-Agent/pr-agent/pull/4774) [`#4775`](https://github.com/The-PR-Agent/pr-agent/pull/4775) |
 | <img src="https://github.com/bpampuch.png?size=40" width="20" height="20" alt="bpampuch"> | [**bpampuch/pdfmake**](https://github.com/bpampuch/pdfmake) | 12.4k | [`#2976`](https://github.com/bpampuch/pdfmake/pull/2976) |
@@ -26,6 +26,7 @@ github is not a social media platform.
 | <img src="https://github.com/rails.png?size=40" width="20" height="20" alt="rails"> | [**rails/bootsnap**](https://github.com/rails/bootsnap) | 2.7k | [`#587`](https://github.com/rails/bootsnap/pull/587) |
 | <img src="https://github.com/hierynomus.png?size=40" width="20" height="20" alt="hierynomus"> | [**hierynomus/sshj**](https://github.com/hierynomus/sshj) | 2.7k | [`#1082`](https://github.com/hierynomus/sshj/pull/1082) |
 | <img src="https://github.com/aws-cloudformation.png?size=40" width="20" height="20" alt="aws-cloudformation"> | [**aws-cloudformation/cfn-lint**](https://github.com/aws-cloudformation/cfn-lint) | 2.6k | [`#5057`](https://github.com/aws-cloudformation/cfn-lint/pull/5057) |
+| <img src="https://github.com/oras-project.png?size=40" width="20" height="20" alt="oras-project"> | [**oras-project/oras**](https://github.com/oras-project/oras) | 2.5k | [`#2372`](https://github.com/oras-project/oras/pull/2372) |
 | <img src="https://github.com/rune-rs.png?size=40" width="20" height="20" alt="rune-rs"> | [**rune-rs/rune**](https://github.com/rune-rs/rune) | 2.5k | [`#1059`](https://github.com/rune-rs/rune/pull/1059) |
 | <img src="https://github.com/stacklok.png?size=40" width="20" height="20" alt="stacklok"> | [**stacklok/toolhive**](https://github.com/stacklok/toolhive) | 2.4k | [`#7314`](https://github.com/stacklok/toolhive/pull/7314) |
 | <img src="https://github.com/marcomusy.png?size=40" width="20" height="20" alt="marcomusy"> | [**marcomusy/vedo**](https://github.com/marcomusy/vedo) | 2.3k | [`#1320`](https://github.com/marcomusy/vedo/pull/1320) |
@@ -40,12 +41,12 @@ github is not a social media platform.
 | <img src="https://github.com/optiland.png?size=40" width="20" height="20" alt="optiland"> | [**optiland/optiland**](https://github.com/optiland/optiland) | 1.1k | [`#1129`](https://github.com/optiland/optiland/pull/1129) |
 | <img src="https://github.com/e18e.png?size=40" width="20" height="20" alt="e18e"> | [**e18e/module-replacements**](https://github.com/e18e/module-replacements) | 1k | [`#1288`](https://github.com/e18e/module-replacements/pull/1288) |
 | <img src="https://github.com/Leafwing-Studios.png?size=40" width="20" height="20" alt="Leafwing-Studios"> | [**Leafwing-Studios/leafwing-input-manager**](https://github.com/Leafwing-Studios/leafwing-input-manager) | 977 | [`#758`](https://github.com/Leafwing-Studios/leafwing-input-manager/pull/758) |
-| <img src="https://github.com/Cygnux-Labs.png?size=40" width="20" height="20" alt="Cygnux-Labs"> | [**Cygnux-Labs/Tracekit**](https://github.com/Cygnux-Labs/Tracekit) | 923 | [`#677`](https://github.com/Cygnux-Labs/Tracekit/pull/677) [`#1093`](https://github.com/Cygnux-Labs/Tracekit/pull/1093) |
+| <img src="https://github.com/Cygnux-Labs.png?size=40" width="20" height="20" alt="Cygnux-Labs"> | [**Cygnux-Labs/Tracekit**](https://github.com/Cygnux-Labs/Tracekit) | 928 | [`#677`](https://github.com/Cygnux-Labs/Tracekit/pull/677) [`#1093`](https://github.com/Cygnux-Labs/Tracekit/pull/1093) |
 | <img src="https://github.com/icsharpcode.png?size=40" width="20" height="20" alt="icsharpcode"> | [**icsharpcode/CodeConverter**](https://github.com/icsharpcode/CodeConverter) | 916 | [`#1329`](https://github.com/icsharpcode/CodeConverter/pull/1329) |
 | <img src="https://github.com/spring1843.png?size=40" width="20" height="20" alt="spring1843"> | [**spring1843/go-dsa**](https://github.com/spring1843/go-dsa) | 872 | [`#216`](https://github.com/spring1843/go-dsa/pull/216) |
 | <img src="https://github.com/spencermountain.png?size=40" width="20" height="20" alt="spencermountain"> | [**spencermountain/wtf_wikipedia**](https://github.com/spencermountain/wtf_wikipedia) | 860 | [`#609`](https://github.com/spencermountain/wtf_wikipedia/pull/609) |
 | <img src="https://github.com/LibreSign.png?size=40" width="20" height="20" alt="LibreSign"> | [**LibreSign/libresign**](https://github.com/LibreSign/libresign) | 852 | [`#9685`](https://github.com/LibreSign/libresign/pull/9685) |
-| <img src="https://github.com/erkamyaman.png?size=40" width="20" height="20" alt="erkamyaman"> | [**erkamyaman/safe-anything**](https://github.com/erkamyaman/safe-anything) | 828 | [`#96`](https://github.com/erkamyaman/safe-anything/pull/96) |
+| <img src="https://github.com/erkamyaman.png?size=40" width="20" height="20" alt="erkamyaman"> | [**erkamyaman/safe-anything**](https://github.com/erkamyaman/safe-anything) | 832 | [`#96`](https://github.com/erkamyaman/safe-anything/pull/96) |
 | <img src="https://github.com/aovestdipaperino.png?size=40" width="20" height="20" alt="aovestdipaperino"> | [**aovestdipaperino/tokensave**](https://github.com/aovestdipaperino/tokensave) | 725 | [`#1131`](https://github.com/aovestdipaperino/tokensave/pull/1131) |
 | <img src="https://github.com/absolute-version.png?size=40" width="20" height="20" alt="absolute-version"> | [**absolute-version/commit-and-tag-version**](https://github.com/absolute-version/commit-and-tag-version) | 662 | [`#370`](https://github.com/absolute-version/commit-and-tag-version/pull/370) |
 | <img src="https://github.com/felladrin.png?size=40" width="20" height="20" alt="felladrin"> | [**felladrin/MiniSearch**](https://github.com/felladrin/MiniSearch) | 613 | [`#3247`](https://github.com/felladrin/MiniSearch/pull/3247) |
@@ -60,8 +61,9 @@ github is not a social media platform.
 | <img src="https://github.com/sphinx-gallery.png?size=40" width="20" height="20" alt="sphinx-gallery"> | [**sphinx-gallery/sphinx-gallery**](https://github.com/sphinx-gallery/sphinx-gallery) | 456 | [`#1662`](https://github.com/sphinx-gallery/sphinx-gallery/pull/1662) [`#1668`](https://github.com/sphinx-gallery/sphinx-gallery/pull/1668) |
 | <img src="https://github.com/CS-SI.png?size=40" width="20" height="20" alt="CS-SI"> | [**CS-SI/eodag**](https://github.com/CS-SI/eodag) | 441 | [`#2483`](https://github.com/CS-SI/eodag/pull/2483) |
 | <img src="https://github.com/open-policy-agent.png?size=40" width="20" height="20" alt="open-policy-agent"> | [**open-policy-agent/regal**](https://github.com/open-policy-agent/regal) | 417 | [`#2189`](https://github.com/open-policy-agent/regal/pull/2189) |
-| <img src="https://github.com/HNGSeries.png?size=40" width="20" height="20" alt="HNGSeries"> | [**HNGSeries/mfilm-canon-film-simulation**](https://github.com/HNGSeries/mfilm-canon-film-simulation) | 397 | [`#210`](https://github.com/HNGSeries/mfilm-canon-film-simulation/pull/210) |
+| <img src="https://github.com/HNGSeries.png?size=40" width="20" height="20" alt="HNGSeries"> | [**HNGSeries/mfilm-canon-film-simulation**](https://github.com/HNGSeries/mfilm-canon-film-simulation) | 398 | [`#210`](https://github.com/HNGSeries/mfilm-canon-film-simulation/pull/210) |
 | <img src="https://github.com/materialsproject.png?size=40" width="20" height="20" alt="materialsproject"> | [**materialsproject/atomate2**](https://github.com/materialsproject/atomate2) | 363 | [`#1667`](https://github.com/materialsproject/atomate2/pull/1667) |
+| <img src="https://github.com/fluent-plugins-nursery.png?size=40" width="20" height="20" alt="fluent-plugins-nursery"> | [**fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter**](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter) | 355 | [`#450`](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/pull/450) |
 | <img src="https://github.com/opengeos.png?size=40" width="20" height="20" alt="opengeos"> | [**opengeos/terrio**](https://github.com/opengeos/terrio) | 331 | [`#1343`](https://github.com/opengeos/terrio/pull/1343) |
 | <img src="https://github.com/o1seth.png?size=40" width="20" height="20" alt="o1seth"> | [**o1seth/faker**](https://github.com/o1seth/faker) | 92 | [`#18`](https://github.com/o1seth/faker/pull/18) |
 | <img src="https://github.com/lollip0529.png?size=40" width="20" height="20" alt="lollip0529"> | [**lollip0529/Zero-Records**](https://github.com/lollip0529/Zero-Records) | 7 | [`#1`](https://github.com/lollip0529/Zero-Records/pull/1) |
